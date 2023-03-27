@@ -1,7 +1,7 @@
 - 👋 Hi, I’m yeonha(@yeonhas)
 - 👀 I’m interested in programing and Information Security.
 - 🌱 I’m currently learning Information Security & computer(IT)
-- 💞️ I’m looking to collaborate on 추후 수정
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : yeonha.0102@gmail.com
 
 <!---
